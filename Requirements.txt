@@ -1,0 +1,10 @@
+matplotlib
+seaborn
+urlextract
+wordcloud
+pandas
+emojoi
+
+
+you have to import your own whatsapp txt file 
+whatsapp-->open chat --> more-->export chat
